@@ -18,7 +18,7 @@ kbd, .key {
 	text-align: center;
 	text-decoration: none;
 	-moz-border-radius: .3em;
-	-webkit-border-radius: .3em;
+	/*-webkit-border-radius: .3em;*/ /*removed until webkit fixes bug*/
 	border-radius: .3em;
 	border: none;
 	cursor: default;
